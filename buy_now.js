@@ -32,7 +32,7 @@ else if(userInput.value.length >15){
 }
 
 else{
-  alert('congratulations!')
+  alert('Congratulations!')
 
 }
 }
